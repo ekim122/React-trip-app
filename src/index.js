@@ -5,6 +5,7 @@
  * (including web sites) or distributed to other students.
  * 
  * Name: Eun Dong Kim  Student ID: 144692209   Date: Jun 10th, 2022
+ * Vercel Link: http://react-trip-app.vercel.app/
  * 
  * ********************************************************************************/
 
